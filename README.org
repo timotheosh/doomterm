@@ -1,0 +1,6 @@
+#+title: doomterm
+
+* DOOM Emacs on Terminal Config
+GUI DOOM Emacs, at least the configuration I use, has a lot of convenience packages for working on the desktop. This is an extremely scaled down configuration oriented for quick edits in the terminal.
+
+[[config.org][Config File]]
